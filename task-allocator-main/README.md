@@ -28,4 +28,4 @@ It enables admins or managers to create, assign, track, and monitor tasks effici
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Veenbreeze/task-allocator.git
+   git clone https://github.com/allan818181/task-allocator
